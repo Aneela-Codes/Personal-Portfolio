@@ -1,1 +1,2 @@
-Link: https://aneela-codes.github.io/Personal-Portfolio/
+##DETAILS
+This is completely static design purely created with HTML and CSS
